@@ -1,0 +1,42 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    background-color: yellow;
+    border-style:solid;
+    margin: 50px ;/*Define a margem*/
+    padding: 30px;
+    
+}
+
+ul li{
+    font-size: 15px;
+    text-transform: uppercase;
+    text-align: left;
+}
+
+ol li{
+    color: crimson;
+}
+
+a:link{
+    color: black;
+}
+
+a:hover{
+    color: red;
+    font-size: 20px;
+
+}
+
+a:active{
+    color: blue;
+    font-size: 25px;
+}
+
+a:visited{
+    color: gray;
+    font-size: 13px
+
+}
